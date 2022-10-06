@@ -1,6 +1,6 @@
 # OgsTokenGen
 
-generator token d
+generator token 
 
 ## Screenshots
 
